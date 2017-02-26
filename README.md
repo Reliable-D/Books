@@ -1,4 +1,4 @@
-My Awesome Book
+我的安卓随记
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+记录学习过程的一些心得
